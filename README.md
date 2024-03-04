@@ -28,6 +28,3 @@ This is a simple todo application built using Spring Boot.
 ## Usage
 - Open your web browser and go to `http://localhost:8080`.
 - You can now add, view, update, and delete todos from the web interface.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
