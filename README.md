@@ -5,11 +5,6 @@ This is a simple todo application built using Spring Boot.
 ## Technologies Used
 - Java
 - Spring Boot
-- Spring Data JPA
-- MySQL
-- Thymeleaf
-- HTML
-- CSS
 
 ## Features
 - Add a new todo
